@@ -1,4 +1,4 @@
-# Feigenbaum-Constant-
+# Feigenbaum-Constant
 Linkage between Feigenbaum Constant and number theory
 
 Given the equation:
