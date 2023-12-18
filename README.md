@@ -1,5 +1,5 @@
 # Feigenbaum-Constant
-Linkage between Feigenbaum Constant and number theory
+Interesting Linkage between Feigenbaum Constant and number theory
 
 Given the equation:
 
@@ -29,3 +29,6 @@ The process is as follows:
    - Multiply the squared result by `(n+1)`: `final_result = squared_result * (n+1)`
 
 The final value, `final_result`, represents the sum of the non-fourth powers less than or equal to `n`, linking the dynamical systems (via the Feigenbaum constant) and number theory (via the Möbius function).
+
+Run attached python code for verification
+
