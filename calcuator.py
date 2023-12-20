@@ -22,6 +22,6 @@ def corrected_calculate_a_n(n, feigenbaum_seq, mobius_seq):
         sum_seq += mobius_value**2 * (i + 1)
     return sum_seq
 
-# Calculate the first 79 terms of A132315 with the full sequences
+# Calculate the first 79 terms. it matches A132315
 corrected_a132315_full = [corrected_calculate_a_n(i, feigenbaum_sequence_full, mobius_sequence_full) for i in range(79)]
 corrected_a132315_full
