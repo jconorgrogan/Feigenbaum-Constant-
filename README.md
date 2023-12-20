@@ -32,3 +32,5 @@ The final value, `final_result`, represents the sum of the non-fourth powers les
 
 Run attached python code for verification
 
+
+The crux seems to be that the Feigenbaum constant's continued fraction exposes an amount that corresponds to a "zero" value mobius function at certain indexes that line up perfetly to the non-fourth powers.
