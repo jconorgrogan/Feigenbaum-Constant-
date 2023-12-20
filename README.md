@@ -1,5 +1,4 @@
-# Feigenbaum-Constant
-Interesting Linkage between Feigenbaum Constant and number theory
+Discovered an interesting Linkage between Feigenbaum Constant and number theory. The crux appears to be that the Feigenbaum constant's continued fraction exposes an amount that corresponds to a "zero" value mobius function at certain indexes that line up perfetly to the non-fourth powers.
 
 Given the equation:
 
@@ -33,4 +32,4 @@ The final value, `final_result`, represents the sum of the non-fourth powers les
 Run attached python code for verification
 
 
-The crux seems to be that the Feigenbaum constant's continued fraction exposes an amount that corresponds to a "zero" value mobius function at certain indexes that line up perfetly to the non-fourth powers.
+
