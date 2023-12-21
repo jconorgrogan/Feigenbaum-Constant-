@@ -1,3 +1,5 @@
+**12/20 update: Looks like this connection lies up until n=69, at which point it fails :(. My extended code calculated beyond the oeis values and confirmed that this linkage does not last beyond 69 iterations**
+
 Discovered an interesting Linkage between Feigenbaum Constant and number theory. The crux appears to be that the Feigenbaum constant's continued fraction exposes an amount that corresponds to a "zero" value mobeus function at certain indexes that line up perfetly to the non-fourth powers.
 
 Given the equation:
